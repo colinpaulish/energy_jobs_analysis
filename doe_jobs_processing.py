@@ -13,7 +13,7 @@ from IPython.display import display
 under_ten_start = 1
 under_ten_end = 9
 
-new_dir = "Projects/energy_jobs/data/doe_2020.csv"
+new_dir = "Projects/energy_jobs/data/doe_2021.csv"
 
 doe_2021 = pd.read_csv(new_dir ,header = 1)
 
